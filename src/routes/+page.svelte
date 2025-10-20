@@ -115,7 +115,7 @@
 			{#if introVisible}
 				<h2
 					class="text-3xl md:text-4xl font-bold text-[#5C4033] mb-6"
-					in:fly={{ y: 30, duration: 600, easing: quintOut }}
+					in:fly={{ y: 30, duration: 1000, easing: quintOut }}
 				>
 					Happy Half-Year, My Love
 				</h2>
