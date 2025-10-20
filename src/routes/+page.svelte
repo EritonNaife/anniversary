@@ -121,7 +121,7 @@
 				</h2>
 				<p
 					class="text-lg md:text-xl leading-relaxed text-[#5C4033]/90"
-					in:fly={{ y: 30, duration: 600, delay: 200, easing: quintOut }}
+					in:fly={{ y: 30, duration: 1000, delay: 400, easing: quintOut }}
 				>
 					Today marks 6 months of us being together, 6 months of nothing but happiness, moments, and
 					experiences together. I wanted to celebrate us not by looking back, but by dreaming
